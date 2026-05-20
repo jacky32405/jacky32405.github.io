@@ -1,5 +1,3 @@
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
 He is currently an undergraduate researcher focusing on large language models and efficient fine-tuning methods.
 
 #### Contact
