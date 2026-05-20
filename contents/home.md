@@ -1,17 +1,17 @@
-
-
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently an undergraduate researcher focusing on large language models and efficient fine-tuning methods.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 202303203029@stu.qlu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
 
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
 
+B.E., Computer Science and Technology (Artificial Intelligence Applications),
+Qilu University of Technology (Shandong Academy of Sciences), 2023—2027.
+
+Research Interests
+
+Large Language Models (LLMs);LoRA / AdaLoRA-based Efficient Adaptation;Multi-Agent Systems;
